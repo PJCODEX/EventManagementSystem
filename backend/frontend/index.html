@@ -60,6 +60,7 @@
     async function loadEvents() {
       const res = await fetch(apiUrl);
       const events = await res.json();
+    }
       eventsList.innerHTML = '';
 
       events.forEach(event => {
