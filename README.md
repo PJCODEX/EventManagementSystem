@@ -16,7 +16,7 @@ A full-stack web application built to demonstrate server-client communication vi
 - ✅ Enable user authentication.
 
 ---  
-**🌍 Render Link** : 🔗 https://eventmanagementsystem-4unq.onrender.com/
+**🌍 Render Link** : 🔗 
 
 ---
 
