@@ -14,6 +14,10 @@ A full-stack web application built to demonstrate server-client communication vi
 - ✅ Develop a front-end interface that interacts with the server API.
 - ✅ Fetch and display data dynamically from the API on the frontend.
 - ✅ Enable user authentication.
+
+---  
+**🌍 Render Link** : 🔗 https://eventmanagementsystem-4unq.onrender.com/
+
 ---
 
 ## 🛠️ Tech Stack & Tools Used
@@ -86,8 +90,6 @@ Edit
 node server.js
 The app will be running on: http://localhost:3000
 
-🌍 Live Demo
-Hosted on Render:🔗 https://eventmanagementsystem-4unq.onrender.com/
 
 ✨ How to Contribute or ⭐ Star
 If you found this project helpful, feel free to:
