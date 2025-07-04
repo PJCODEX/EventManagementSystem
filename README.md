@@ -16,7 +16,7 @@ A full-stack web application built to demonstrate server-client communication vi
 - ✅ Enable user authentication.
 
 ---  
-**🌍 Render Link** : 🔗 
+**🌍 Render Link** : 🔗 https://eventmanagementsystem-d3z4.onrender.com/
 
 ---
 
