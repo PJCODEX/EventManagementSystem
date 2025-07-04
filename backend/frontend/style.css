@@ -1,0 +1,13 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  transition: background-color 0.4s, color 0.4s;
+}
+
+#toggleTheme {
+  font-size: 0.9rem;
+  padding: 4px 12px;
+}
+
+.list-group-item {
+  transition: background-color 0.3s, color 0.3s;
+}
