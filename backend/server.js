@@ -5,7 +5,7 @@ const cors = require('cors');
 const app = express();
 const PORT = process.env.PORT || 3000;
 
-/ Serve frontend static files
+// Serve frontend static files
 app.use(express.static(path.join(__dirname, 'frontend')));
 
 // Serve index.html for root
