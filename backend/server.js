@@ -5,6 +5,14 @@ const cors = require('cors');
 const app = express();
 const PORT = process.env.PORT || 3000;
 
+/ Serve frontend static files
+app.use(express.static(path.join(__dirname, 'frontend')));
+
+// Serve index.html for root
+app.get('/', (req, res) => {
+  res.sendFile(path.join(__dirname, 'frontend', 'index.html'));
+});
+
 //Middleware
 
 app.use(cors());
