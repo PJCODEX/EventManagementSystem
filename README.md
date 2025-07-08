@@ -2,7 +2,7 @@
 
 > **API Integration and Front-End Interaction**
 
-A full-stack web application built to demonstrate server-client communication via RESTful API. This system allows users to register/login and manage a list of events with full CRUD operations. The application uses **Node.js, Server.js/Express** on the backend and **HTML,CSS(with Bootstrap)** on the frontend.
+A full-stack web application built to demonstrate server-client communication via RESTful API. This system allows users to  manage a list of events with full CRUD operations. The application uses **Node.js, Server.js/Express** on the backend and **HTML,CSS(with Bootstrap)** on the frontend.
 
 ---
 
