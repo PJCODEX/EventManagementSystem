@@ -52,7 +52,6 @@ Edit
 
 ## 🧠 Key Features
 
-- 🔐 User authentication (register & login)
 - 📅 Add, edit, delete, and view events(CRUD Operation)
 - 🌐 REST API endpoints
 - 🎨 Clean UI with Bootstrap 5
