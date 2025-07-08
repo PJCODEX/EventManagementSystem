@@ -24,8 +24,8 @@ A full-stack web application built to demonstrate server-client communication vi
 
 | Category        | Tools & Frameworks                    |
 |---------------  |---------------------------------------|
-| Frontend        | HTML, CSS, JavaScript, Bootstrap 5    |
-| Backend         | Node.js, Express.js                   |
+| Frontend        | HTML, CSS, Bootstrap 5    |
+| Backend         | Node.js, Express.js/Server.js                   |
 | API Style       | RESTful API (JSON based)              |     
 | Version Control | Git & GitHub                          |
 | Optional        | Google Fonts, Icons, Responsiveness   |
