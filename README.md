@@ -70,29 +70,6 @@ Edit
 
 ---
 
-## 🚀 How to Run Locally
-
-### 1. Clone this Repository 
-<br>
-
-```bash
-git clone https://github.com/PJCODEX/EventManagementSystem.git
-cd EventManagementSystem/backend
-2. Install Dependencies
-bash
-Copy
-Edit
-npm install
-3. Start the Server
-bash
-Copy
-Edit
-node server.js
-The app will be running on: http://localhost:3000
-
----
-</br>
-
 ## 🤝 Contribution Guide
 Want to suggest a new feature or fix a bug?
  1. Fork the repo on GitHub:
