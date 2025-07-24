@@ -91,7 +91,30 @@ git commit -m "Add: Your short and meaningful description"**
  6. Push your changes to your fork
 **git push origin feature/your-feature-name**
 
- 7. Open a Pull Request
+
+
+## 🚀 How to Run Locally
+
+### 1. Clone this Repository 
+<br>
+
+```bash
+git clone https://github.com/PJCODEX/EventManagementSystem.git
+cd EventManagementSystem/backend
+2. Install Dependencies
+bash
+Copy
+Edit
+npm install
+3. Start the Server
+bash
+Copy
+Edit
+node server.js
+The app will be running on: http://localhost:3000
+
+
+ 8. Open a Pull Request
  - Go to your forked repo on GitHub
  - Click "Compare & pull request"
  - Add a clear title and description 
