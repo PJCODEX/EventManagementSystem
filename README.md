@@ -1,4 +1,4 @@
-# 📅 Event Management System
+# 📅 EventManagementSystem
 
 > **API Integration and Front-End Interaction**
 
@@ -89,12 +89,29 @@ Edit
 node server.js
 The app will be running on: http://localhost:3000
 
+## 🤝 Contribution Guide
+Want to suggest a new feature or fix a bug?
+ 1. Fork the repo on GitHub:
+ Visit: **https://github.com/PJCODEX/EventManagementSystem.git** and click the "Fork" button (top-right)
 
-✨ How to Contribute or ⭐ Star
-If you found this project helpful, feel free to:
+ 2. Clone your fork
+**git clone https://github.com/your-username/EventManagementSystem.git** <br> 
+cd EventManagementSystem</br>
 
-⭐ Star this repo on GitHub
+ 3. Create a new feature or bugfix branch
+**git checkout -b feature/your-feature-name**
+ 4. Make your changes
+(Open and edit files as needed using your code editor)
 
-🛠 Fork and create your own version
+ 5. Stage and commit your changes
+**git add .
+git commit -m "Add: Your short and meaningful description"**
 
-📬 Submit pull requests with improvements
+ 6. Push your changes to your fork
+**git push origin feature/your-feature-name**
+
+ 7. Open a Pull Request
+ - Go to your forked repo on GitHub
+ - Click "Compare & pull request"
+ - Add a clear title and description 
+ - Submit the PR to the original repo (PJCODEX/EventManagementSystem)
