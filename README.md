@@ -89,6 +89,8 @@ Edit
 node server.js
 The app will be running on: http://localhost:3000
 
+---
+
 ## 🤝 Contribution Guide
 Want to suggest a new feature or fix a bug?
  1. Fork the repo on GitHub:
