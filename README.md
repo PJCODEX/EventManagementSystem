@@ -72,7 +72,8 @@ Edit
 
 ## 🚀 How to Run Locally
 
-### 1. Clone this Repository
+### 1. Clone this Repository 
+<br>
 
 ```bash
 git clone https://github.com/PJCODEX/EventManagementSystem.git
@@ -90,6 +91,7 @@ node server.js
 The app will be running on: http://localhost:3000
 
 ---
+</br>
 
 ## 🤝 Contribution Guide
 Want to suggest a new feature or fix a bug?
